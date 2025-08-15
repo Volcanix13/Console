@@ -21,12 +21,11 @@ Une console Python légère avec gestion de fichiers, commandes système.
 
 ### How to Run
 ```
-python myfastconsole.py
+python myfastconsoles.py
 ```
 
 ### Usage
 - Type `help` to see all available commands.
-- Change language: `lang en` or `lang fr`.
 
 ### Contributing
 - Fork the repository.
@@ -50,12 +49,11 @@ python myfastconsole.py
 
 ### Lancement
 ```
-python myfastconsole.py
+python myfastconsoles.py
 ```
 
 ### Utilisation
 - Tapez `help` pour voir toutes les commandes disponibles.
-- Changer de langue : `lang fr` ou `lang en`.
 
 ### Contribuer
 - Forkez le dépôt.
